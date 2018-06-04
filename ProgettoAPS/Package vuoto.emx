@@ -1470,7 +1470,7 @@
                   <layoutConstraint xmi:type="notation:Size" xmi:id="_Gq24BWfJEeiBsY9caigoYw" width="1320" height="1320"/>
                 </children>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_Gq24BmfJEeiBsY9caigoYw" type="Stereotype"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqQbEWfJEeiBsY9caigoYw" x="3703" y="225" width="11534" height="2828"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GqQbEWfJEeiBsY9caigoYw" x="3829" y="552" width="11825" height="3569"/>
               </children>
               <children xmi:type="umlnotation:UMLShape" xmi:id="_XLrwkGfKEeiBsY9caigoYw" element="_XLh_kGfKEeiBsY9caigoYw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_XLrwkmfKEeiBsY9caigoYw" element="_XLh_kWfKEeiBsY9caigoYw">
