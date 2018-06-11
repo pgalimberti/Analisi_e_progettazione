@@ -1205,7 +1205,7 @@
         </children>
         <children xmi:type="notation:DecorationNode" xmi:id="_iFE2A2jQEeiLtcMghpintA" type="FromMultiplicityLabel" element="_iFE18WjQEeiLtcMghpintA">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_iFE2BWjQEeiLtcMghpintA" type="FromMultiplicity"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_iFE2BGjQEeiLtcMghpintA" x="3074" y="-907"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_iFE2BGjQEeiLtcMghpintA" x="2493" y="-775"/>
         </children>
         <children xmi:type="notation:DecorationNode" xmi:id="_iFE2BmjQEeiLtcMghpintA" visible="false" type="FromRoleLabel" element="_iFE18WjQEeiLtcMghpintA">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_iFE2CGjQEeiLtcMghpintA" type="FromRole"/>
@@ -4347,6 +4347,12 @@
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedAttribute>
           <ownedAttribute xmi:id="_TFsLwGpgEeiII7buS3mEWA" name="rispostaSelezionata" visibility="private" type="_0_qlwGjSEeiLtcMghpintA"/>
+          <ownedAttribute xmi:id="_KJPDIG1KEeiFGNHkhFXk8A" name="time" visibility="private">
+            <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF7ykGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/dateTime?"/>
+            <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_gO1BQG1KEeiFGNHkhFXk8A">
+              <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF7ykGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/dateTime?"/>
+            </defaultValue>
+          </ownedAttribute>
           <ownedOperation xmi:id="_Z1bX4GloEeieHoCZr5oVYw" name="addElementoGrafico">
             <ownedParameter xmi:id="_RL64gGl1EeieHoCZr5oVYw" name="Slide" type="_iI_5EGfSEeist80_nd76jw"/>
             <ownedParameter xmi:id="_qx73QGpjEeiII7buS3mEWA" name="id" type="_skwpAGlhEeieHoCZr5oVYw"/>
@@ -4369,6 +4375,7 @@
             <ownedParameter xmi:id="_wpTTQGpjEeiII7buS3mEWA" name="id" type="_skwpAGlhEeieHoCZr5oVYw"/>
             <ownedParameter xmi:id="_uKm2gGpTEeiII7buS3mEWA" name="sezione" type="_zSSzEGjUEeiLtcMghpintA"/>
           </ownedOperation>
+          <ownedOperation xmi:id="_LYN-wG1KEeiFGNHkhFXk8A" name="startTimer"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Association" xmi:id="_DnqCgGjWEeiLtcMghpintA" memberEnd="_DnqCgWjWEeiLtcMghpintA _DnqChGjWEeiLtcMghpintA"/>
         <packagedElement xmi:type="uml:Association" xmi:id="_iTPwoGjXEeiLtcMghpintA" memberEnd="_iTPwoWjXEeiLtcMghpintA _iTPwpGjXEeiLtcMghpintA"/>
@@ -4510,6 +4517,9 @@
           </ownedOperation>
           <ownedOperation xmi:id="_4kr3YGsREeisfNSaGM9JRw" name="getTestSomministrati">
             <ownedParameter xmi:id="_7A8ecGsREeisfNSaGM9JRw" name="id" type="_skwpAGlhEeieHoCZr5oVYw"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_ya8o4G1JEeiFGNHkhFXk8A" name="startTimer">
+            <ownedParameter xmi:id="_GmpGIG1KEeiFGNHkhFXk8A" name="test" type="_AbihQGjVEeiLtcMghpintA"/>
           </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Dependency" xmi:id="_Dfs1oGshEeisfNSaGM9JRw" supplier="_dMSakGpbEeiII7buS3mEWA" client="_n8KBEGsgEeisfNSaGM9JRw"/>
