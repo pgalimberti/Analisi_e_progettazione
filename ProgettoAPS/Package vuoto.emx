@@ -6117,6 +6117,61 @@
   <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Up8igW7vEeiGBMqpVwroqg" name="ReceiveOperationEvent33" operation="_ExrpUG7vEeiGBMqpVwroqg"/>
   <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_aYmHYG7vEeiGBMqpVwroqg" name="SendOperationEvent40" operation="_5giy4Gl1EeieHoCZr5oVYw"/>
   <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_aYmHYW7vEeiGBMqpVwroqg" name="ReceiveOperationEvent34" operation="_5giy4Gl1EeieHoCZr5oVYw"/>
+  <packagedElement xmi:type="uml:Collaboration" xmi:id="_u-fNUG7vEeiGBMqpVwroqg" name="Collaboration8">
+    <ownedBehavior xmi:type="uml:Interaction" xmi:id="_u-o-UG7vEeiGBMqpVwroqg" name="deleteTextBox">
+      <eAnnotations xmi:id="_u-yIQG7vEeiGBMqpVwroqg" source="uml2.diagrams">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_u-yIQW7vEeiGBMqpVwroqg" type="Sequence" element="_u-o-UG7vEeiGBMqpVwroqg" name="deleteTextBox" measurementUnit="Himetric">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_u-yIQm7vEeiGBMqpVwroqg" element="_u-o-UG7vEeiGBMqpVwroqg" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_u-yIQ27vEeiGBMqpVwroqg" type="interaction_compartment">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_9Y_vEm7vEeiGBMqpVwroqg" element="_9Y_vEG7vEeiGBMqpVwroqg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <eAnnotations xmi:id="_9Y_vFG7vEeiGBMqpVwroqg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                  <details xmi:id="_9Y_vFW7vEeiGBMqpVwroqg" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                </eAnnotations>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Y_vFm7vEeiGBMqpVwroqg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Y_vF27vEeiGBMqpVwroqg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Y_vGG7vEeiGBMqpVwroqg" type="Parent"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Y_vE27vEeiGBMqpVwroqg" x="476" y="53" width="2459" height="9525"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_-S7AsG7vEeiGBMqpVwroqg" element="_-SxPsG7vEeiGBMqpVwroqg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <eAnnotations xmi:id="_-S7Asm7vEeiGBMqpVwroqg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                  <details xmi:id="_-S7As27vEeiGBMqpVwroqg" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                </eAnnotations>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_-S7AtG7vEeiGBMqpVwroqg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_-S7AtW7vEeiGBMqpVwroqg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_-S7Atm7vEeiGBMqpVwroqg" type="Parent"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-S7AsW7vEeiGBMqpVwroqg" x="-2459" y="53" width="4973" height="9525"/>
+              </children>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u-yIRG7vEeiGBMqpVwroqg" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u-yIRW7vEeiGBMqpVwroqg" x="793" y="793"/>
+          </children>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="__NyGcG7vEeiGBMqpVwroqg" element="__NCfkG7vEeiGBMqpVwroqg" source="_9Y_vEm7vEeiGBMqpVwroqg" target="_-S7AsG7vEeiGBMqpVwroqg" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="__NyGcm7vEeiGBMqpVwroqg" type="MessageNameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="__NyGdG7vEeiGBMqpVwroqg" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="__NyGdW7vEeiGBMqpVwroqg" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__NyGc27vEeiGBMqpVwroqg" y="-317"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__NyGcW7vEeiGBMqpVwroqg" points="[0, 0, -147, 0]$[147, 0, 0, 0]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__NyGdm7vEeiGBMqpVwroqg" id="1133:1695"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__NyGd27vEeiGBMqpVwroqg" id="1165:0"/>
+          </edges>
+        </contents>
+      </eAnnotations>
+      <ownedConnector xmi:id="__NoVcW7vEeiGBMqpVwroqg">
+        <end xmi:id="__NoVcm7vEeiGBMqpVwroqg" role="_9Y_vEW7vEeiGBMqpVwroqg"/>
+        <end xmi:id="__NoVc27vEeiGBMqpVwroqg" role="_-SxPsW7vEeiGBMqpVwroqg"/>
+      </ownedConnector>
+      <lifeline xmi:id="_9Y_vEG7vEeiGBMqpVwroqg" name="slide" represents="_9Y_vEW7vEeiGBMqpVwroqg" coveredBy="__NCfkW7vEeiGBMqpVwroqg"/>
+      <lifeline xmi:id="_-SxPsG7vEeiGBMqpVwroqg" name="casellaDiTesto" represents="_-SxPsW7vEeiGBMqpVwroqg" coveredBy="__NCfkm7vEeiGBMqpVwroqg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="__NCfkW7vEeiGBMqpVwroqg" covered="_9Y_vEG7vEeiGBMqpVwroqg" event="__lL50G7vEeiGBMqpVwroqg" message="__NCfkG7vEeiGBMqpVwroqg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="__NCfkm7vEeiGBMqpVwroqg" covered="_-SxPsG7vEeiGBMqpVwroqg" event="__NoVcG7vEeiGBMqpVwroqg" message="__NCfkG7vEeiGBMqpVwroqg"/>
+      <message xmi:id="__NCfkG7vEeiGBMqpVwroqg" name="deleteTextBox" messageSort="deleteMessage" receiveEvent="__NCfkm7vEeiGBMqpVwroqg" sendEvent="__NCfkW7vEeiGBMqpVwroqg" connector="__NoVcW7vEeiGBMqpVwroqg"/>
+    </ownedBehavior>
+    <ownedAttribute xmi:id="_9Y_vEW7vEeiGBMqpVwroqg" name="slide" type="_iI_5EGfSEeist80_nd76jw"/>
+    <ownedAttribute xmi:id="_-SxPsW7vEeiGBMqpVwroqg" name="casellaDiTesto" type="_PHOb0GfTEeist80_nd76jw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:DestructionEvent" xmi:id="__NoVcG7vEeiGBMqpVwroqg" name="DestructionEvent1"/>
+  <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="__lL50G7vEeiGBMqpVwroqg" name="SendOperationEvent41" operation="_deC2cG4gEeiGB9BWa9YESQ"/>
   <profileApplication xmi:id="_hkKEJF9iEeiBwpuf_QieJQ">
     <eAnnotations xmi:id="_hkKEJV9iEeiBwpuf_QieJQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
