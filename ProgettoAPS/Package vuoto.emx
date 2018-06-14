@@ -3110,9 +3110,9 @@
       <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_jpt2cmJXEeiMY62Hh418hg" covered="_fCM4wGJXEeiMY62Hh418hg" event="_lRvkMmJXEeiMY62Hh418hg" message="_jpt2cGJXEeiMY62Hh418hg"/>
       <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_jpt2c2JXEeiMY62Hh418hg" covered="_fCM4wGJXEeiMY62Hh418hg" start="_jpt2cmJXEeiMY62Hh418hg" finish="_jpt2dGJXEeiMY62Hh418hg"/>
       <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_jpt2dGJXEeiMY62Hh418hg" covered="_fCM4wGJXEeiMY62Hh418hg" event="_iDSasF9jEeijcow8iJqUoQ" execution="_jpt2c2JXEeiMY62Hh418hg"/>
-      <message xmi:id="_hA9EcGJXEeiMY62Hh418hg" name="\Non specificato\" receiveEvent="_hA9EcmJXEeiMY62Hh418hg" sendEvent="_hA9EcWJXEeiMY62Hh418hg" connector="_hA9Ed2JXEeiMY62Hh418hg"/>
-      <message xmi:id="_hA9EdWJXEeiMY62Hh418hg" name="\Non specificato\" messageSort="reply" receiveEvent="_hA9EdmJXEeiMY62Hh418hg" sendEvent="_hA9EdGJXEeiMY62Hh418hg" connector="_hA9Ed2JXEeiMY62Hh418hg"/>
-      <message xmi:id="_jpt2cGJXEeiMY62Hh418hg" name="\Non specificato\" messageSort="asynchCall" receiveEvent="_jpt2cmJXEeiMY62Hh418hg" sendEvent="_jpt2cWJXEeiMY62Hh418hg" connector="_hA9Ed2JXEeiMY62Hh418hg"/>
+      <message xmi:id="_hA9EcGJXEeiMY62Hh418hg" name="getTest" receiveEvent="_hA9EcmJXEeiMY62Hh418hg" sendEvent="_hA9EcWJXEeiMY62Hh418hg" connector="_hA9Ed2JXEeiMY62Hh418hg"/>
+      <message xmi:id="_hA9EdWJXEeiMY62Hh418hg" name="getTest" messageSort="reply" receiveEvent="_hA9EdmJXEeiMY62Hh418hg" sendEvent="_hA9EdGJXEeiMY62Hh418hg" connector="_hA9Ed2JXEeiMY62Hh418hg"/>
+      <message xmi:id="_jpt2cGJXEeiMY62Hh418hg" name="addValutazione" messageSort="asynchCall" receiveEvent="_jpt2cmJXEeiMY62Hh418hg" sendEvent="_jpt2cWJXEeiMY62Hh418hg" connector="_hA9Ed2JXEeiMY62Hh418hg"/>
     </ownedBehavior>
     <ownedAttribute xmi:id="_dzkicWJXEeiMY62Hh418hg" name="esperto" type="_10M14F9iEeiBwpuf_QieJQ"/>
     <ownedAttribute xmi:id="_fCM4wWJXEeiMY62Hh418hg" name="sistema" type="_A-Yr0F9iEeijcow8iJqUoQ"/>
@@ -3172,8 +3172,8 @@
       <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_wRpnU2JXEeiMY62Hh418hg" covered="_vfRvMGJXEeiMY62Hh418hg" start="_wRpnUmJXEeiMY62Hh418hg" finish="_wRpnVGJXEeiMY62Hh418hg"/>
       <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wRpnVGJXEeiMY62Hh418hg" covered="_vfRvMGJXEeiMY62Hh418hg" event="_hQdgEGJXEeiMY62Hh418hg" message="_wRpnVWJXEeiMY62Hh418hg"/>
       <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wRpnVmJXEeiMY62Hh418hg" covered="_u_UcwGJXEeiMY62Hh418hg" event="_hQdgEWJXEeiMY62Hh418hg" message="_wRpnVWJXEeiMY62Hh418hg"/>
-      <message xmi:id="_wRpnUGJXEeiMY62Hh418hg" name="\Non specificato\" receiveEvent="_wRpnUmJXEeiMY62Hh418hg" sendEvent="_wRpnUWJXEeiMY62Hh418hg" connector="_wRpnV2JXEeiMY62Hh418hg"/>
-      <message xmi:id="_wRpnVWJXEeiMY62Hh418hg" name="\Non specificato\" messageSort="reply" receiveEvent="_wRpnVmJXEeiMY62Hh418hg" sendEvent="_wRpnVGJXEeiMY62Hh418hg" connector="_wRpnV2JXEeiMY62Hh418hg"/>
+      <message xmi:id="_wRpnUGJXEeiMY62Hh418hg" name="getTest" receiveEvent="_wRpnUmJXEeiMY62Hh418hg" sendEvent="_wRpnUWJXEeiMY62Hh418hg" connector="_wRpnV2JXEeiMY62Hh418hg"/>
+      <message xmi:id="_wRpnVWJXEeiMY62Hh418hg" name="getTest" messageSort="reply" receiveEvent="_wRpnVmJXEeiMY62Hh418hg" sendEvent="_wRpnVGJXEeiMY62Hh418hg" connector="_wRpnV2JXEeiMY62Hh418hg"/>
     </ownedBehavior>
     <ownedAttribute xmi:id="_uFc1gWJXEeiMY62Hh418hg" name="somministrazione" type="__VlFgF9iEeiBwpuf_QieJQ"/>
     <ownedAttribute xmi:id="_u_dmsGJXEeiMY62Hh418hg" name="somministratore" type="_F7JEQF9jEeiBwpuf_QieJQ"/>
