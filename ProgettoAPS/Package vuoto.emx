@@ -3038,7 +3038,7 @@
   <packagedElement xmi:type="uml:Collaboration" xmi:id="_ayCEEGJXEeiMY62Hh418hg" name="Collaboration2">
     <ownedBehavior xmi:type="uml:Interaction" xmi:id="_ayCEEWJXEeiMY62Hh418hg" name="Interaction1">
       <eAnnotations xmi:id="_ayL1EGJXEeiMY62Hh418hg" source="uml2.diagrams">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_ayL1EWJXEeiMY62Hh418hg" type="Sequence" element="_ayCEEWJXEeiMY62Hh418hg" name="SSD valutazione" measurementUnit="Himetric">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_ayL1EWJXEeiMY62Hh418hg" type="Sequence" element="_ayCEEWJXEeiMY62Hh418hg" name="SSD valutazione (analisi)" measurementUnit="Himetric">
           <children xmi:type="umlnotation:UMLShape" xmi:id="_ayL1EmJXEeiMY62Hh418hg" element="_ayCEEWJXEeiMY62Hh418hg" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ayL1E2JXEeiMY62Hh418hg" type="interaction_compartment">
               <children xmi:type="umlnotation:UMLShape" xmi:id="_dzkicmJXEeiMY62Hh418hg" element="_dzkicGJXEeiMY62Hh418hg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -3124,7 +3124,7 @@
   <packagedElement xmi:type="uml:Collaboration" xmi:id="_rsc90GJXEeiMY62Hh418hg" name="Collaboration3">
     <ownedBehavior xmi:type="uml:Interaction" xmi:id="_rsc90WJXEeiMY62Hh418hg" name="Interaction1">
       <eAnnotations xmi:id="_rsc90mJXEeiMY62Hh418hg" source="uml2.diagrams">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_rsc902JXEeiMY62Hh418hg" type="Sequence" element="_rsc90WJXEeiMY62Hh418hg" name="SSD visualizzazione" measurementUnit="Himetric">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_rsc902JXEeiMY62Hh418hg" type="Sequence" element="_rsc90WJXEeiMY62Hh418hg" name="SSD visualizzazione (analisi)" measurementUnit="Himetric">
           <children xmi:type="umlnotation:UMLShape" xmi:id="_rsc91GJXEeiMY62Hh418hg" element="_rsc90WJXEeiMY62Hh418hg" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_rsc91WJXEeiMY62Hh418hg" type="interaction_compartment">
               <children xmi:type="umlnotation:UMLShape" xmi:id="_u_dmsWJXEeiMY62Hh418hg" element="_u_UcwGJXEeiMY62Hh418hg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
