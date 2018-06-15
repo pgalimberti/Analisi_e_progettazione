@@ -4236,7 +4236,7 @@
             <element xsi:nil="true"/>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:Class" xmi:id="_Tw0NgGjNEeiLtcMghpintA" name="Controller">
+        <packagedElement xmi:type="uml:Class" xmi:id="_Tw0NgGjNEeiLtcMghpintA" name="espertoController">
           <ownedAttribute xmi:id="_XYIG4WjXEeiLtcMghpintA" name="test" visibility="private" type="_AbihQGjVEeiLtcMghpintA" association="_XYIG4GjXEeiLtcMghpintA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_XYIG42jXEeiLtcMghpintA" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_XYIG4mjXEeiLtcMghpintA"/>
@@ -5021,7 +5021,7 @@
             <element xsi:nil="true"/>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:Class" xmi:id="_MIi3oGpZEeiII7buS3mEWA" name="controller">
+        <packagedElement xmi:type="uml:Class" xmi:id="_MIi3oGpZEeiII7buS3mEWA" name="somministratoreController">
           <ownedAttribute xmi:id="_baapwWpaEeiII7buS3mEWA" name="soggetto" visibility="private" type="_CxzVQGpaEeiII7buS3mEWA" association="_baapwGpaEeiII7buS3mEWA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_baapw2paEeiII7buS3mEWA" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_baapwmpaEeiII7buS3mEWA"/>
